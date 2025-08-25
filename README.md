@@ -1,0 +1,2 @@
+# MyBigScript
+infinity yielde like
